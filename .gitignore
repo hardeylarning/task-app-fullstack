@@ -6,6 +6,8 @@ todo-app/node_modules
 .pnp.js
 backend/TodoAPI/bin
 
+backend/TodoAPI/obj
+
 # testing
 /coverage
 
